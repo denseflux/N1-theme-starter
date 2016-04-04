@@ -1,10 +1,10 @@
 {
-  "name": "",
-  "title": "",
-  "displayName": "",
+  "name": "denseflux",
+  "title": "Dense Flux",
+  "displayName": "denseflux",
   "theme": "ui",
   "version": "0.1.0",
-  "description": "",
+  "description": "A hybrid dark/light theme",
   "license": "GPL-3.0",
   "engines": {
     "nylas": "*"
